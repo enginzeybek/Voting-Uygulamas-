@@ -1,0 +1,14 @@
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Voting Uygulaması\bin\Debug\net9.0\Voting Uygulaması.exe
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Voting Uygulaması\bin\Debug\net9.0\Voting Uygulaması.deps.json
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Voting Uygulaması\bin\Debug\net9.0\Voting Uygulaması.runtimeconfig.json
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Voting Uygulaması\bin\Debug\net9.0\Voting Uygulaması.dll
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Voting Uygulaması\bin\Debug\net9.0\Voting Uygulaması.pdb
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Voting Uygulaması\obj\Debug\net9.0\Voting Uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Voting Uygulaması\obj\Debug\net9.0\Voting Uygulaması.AssemblyInfoInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Voting Uygulaması\obj\Debug\net9.0\Voting Uygulaması.AssemblyInfo.cs
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Voting Uygulaması\obj\Debug\net9.0\Voting Uygulaması.csproj.CoreCompileInputs.cache
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Voting Uygulaması\obj\Debug\net9.0\Voting Uygulaması.dll
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Voting Uygulaması\obj\Debug\net9.0\refint\Voting Uygulaması.dll
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Voting Uygulaması\obj\Debug\net9.0\Voting Uygulaması.pdb
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Voting Uygulaması\obj\Debug\net9.0\Voting Uygulaması.genruntimeconfig.cache
+c:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Voting Uygulaması\obj\Debug\net9.0\ref\Voting Uygulaması.dll
